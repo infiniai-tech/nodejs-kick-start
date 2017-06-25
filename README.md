@@ -11,9 +11,13 @@ A Deck to present the [NodeJS Overview]
 ## EventLoop demystified
 [EventLoop] execution with multiple requests
 
+## NodeJS Inventor - Original video
+[Ryan Dahl] NodeJS inventor - original talk about his invention in JSConf2009
+
 
 [Java to NodeJS]: <./Java-to-NodeJS.pptx>
 [NodeJS Overview]: <./Nodejs-Overview.pptx>
 [EventLoop]: <https://www.youtube.com/watch?v=8aGhZQkoFbQ>
+[Ryan Dahl]: <https://www.youtube.com/watch?v=ztspvPYybIY>
 
 
